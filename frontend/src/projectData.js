@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: 'Recipe Finder',
-    image: './images/recipeApp-mockup',
+    image: './images/simonsays',
     description: 'Browse recipes from a variety of sources. Users can save recipes to view them later. API from themealdb.com.',
     tools: ['Javascript', 'API'],
     github: 'https://github.com/Deelip7/RecipesFinder',
